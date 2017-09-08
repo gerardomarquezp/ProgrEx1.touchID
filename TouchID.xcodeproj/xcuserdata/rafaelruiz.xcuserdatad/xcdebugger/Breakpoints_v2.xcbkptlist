@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Touch/AuthenticationVC.swift"
+            timestampString = "526415347.794668"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "useTouchIDButtonWasPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Touch.AuthentocationVC.useTouchIDButtonWasPressed (Any) -&gt; ()"
+                  moduleName = "Touch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelruiz/Desktop/Touch/Touch/AuthenticationVC.swift"
+                  timestampString = "526446003.789101"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Touch.AuthentocationVC.(useTouchIDButtonWasPressed (Any) -&gt; ()).(closure #1)"
+                  moduleName = "Touch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelruiz/Desktop/Touch/Touch/AuthenticationVC.swift"
+                  timestampString = "526446003.791277"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
